@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605318157014",
+    "project_id": "aifin-bca2c",
+    "storage_bucket": "aifin-bca2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605318157014:android:fddddd09e232ad5d38ef77",
+        "android_client_info": {
+          "package_name": "com.example.interviewprep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrgB-5BiRk8PIV0CSh5m8HlKUGd-GxsoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
