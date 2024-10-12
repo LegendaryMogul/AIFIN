@@ -38,7 +38,7 @@ def resumeFeedback(event: storage_fn.CloudEvent[storage_fn.StorageObjectData]):
 
         client = OpenAI(
             # defaults to os.environ.get("OPENAI_API_KEY")
-            api_key="sk-proj-wkqNcdPxfoMPNgeSLW7kT3BlbkFJtohuhNXnzs1jMma6eEzs",
+            api_key="Insert Key",
         )
 
         pdf_reader = PyPDF2.PdfReader(io.BytesIO(pdf_bytes))
