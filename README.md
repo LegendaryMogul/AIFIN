@@ -9,7 +9,7 @@ AIFIN is a mobile application aimed at helping users prepare for behavioral inte
 - Keeps track of users' progress per session 
 
 ## Technologies
-- **Java** (primary language)
+- **Python, Java** (primary language)
 
 ## Installation
 Clone the repository and follow the steps to set up your environment:
